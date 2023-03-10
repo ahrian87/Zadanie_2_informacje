@@ -1,2 +1,2 @@
 # Zadanie_2
- Drugie zadanie w ramach praktyki testowania - yszukanie i przeanalizowanie dostępnych informacji o testowanym oprogramowaniu. 
+ Drugie zadanie w ramach praktyki testowania - wyszukanie i przeanalizowanie dostępnych informacji o testowanym oprogramowaniu. 
